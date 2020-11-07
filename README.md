@@ -1,10 +1,10 @@
 A Development team made out of @ChloeXX-AUS and @liamobr-art
 --------------------------------
 projects:
-MilkBot
+MilkBot,
 website
 --------------------------------
 Ideas:
-bot list
+bot list,
 server list 
 --------------------------------
